@@ -39,3 +39,31 @@
     font-size: 100px;
     text-transform: uppercase;
 }
+
+/*VOGAIS 3*/
+
+.destaque{
+    height: 130px;
+    font-size: 120px;
+    background-color: blue;
+}
+
+.div_vogais3{
+    background-color: green;
+    height: 300px;
+}
+
+.div_vogais3 button{
+    width: 22%;
+    max-height: 100%;
+    padding: 2%;
+    background-color: red;
+       
+}
+
+.div_vogais3 button img{
+    height: 150px;
+    max-width: 100%;
+    background-color: purple;
+    padding: 8%;
+}
