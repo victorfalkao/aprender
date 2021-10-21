@@ -2,12 +2,10 @@
     margin: 0;
     padding: 0;
     text-align: center;
+    border: solid 2px;
 }
 
-button{
-    background-color: white;
-}
-
+/*VOGAIS 1*/
 .baloens{
     position: absolute;
     width: 80px;
@@ -22,4 +20,22 @@ button{
 
 .rela{
     position: relative;
+}
+
+/* VOGAIS 2*/
+
+.vogais2_div{
+    width: 15%;
+    height: 100%;
+    padding: 2% 2% 5% 2%;
+    border: solid 2px;
+    background-color: blue;
+    display: inline-block;
+}
+
+.text_vogais2{
+    width: 80px;
+    height: 120px;
+    font-size: 100px;
+    text-transform: uppercase;
 }
