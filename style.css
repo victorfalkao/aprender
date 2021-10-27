@@ -42,28 +42,54 @@
 
 /*VOGAIS 3*/
 
-.destaque{
-    height: 130px;
-    font-size: 120px;
-    background-color: blue;
-}
-
-.div_vogais3{
-    background-color: green;
+principal{
     height: 300px;
+    width: 100%;
+    background-color: pink;
+    display: grid;
+        grid-template-columns: 30% 70%;
+        justify-content: space-between;
+        grid-template-areas:
+            "aside main"
+            ;
 }
 
-.div_vogais3 button{
-    width: 22%;
-    max-height: 100%;
+aside{
+    grid-area: aside;
+    height: 100%;
+    background-color: blue;
+    align-items: center;
+    font-size: 200px;
+    vertical-align: central;
+}
+
+aside p{
+    height: 100%;
+    
+}
+
+main{
+    grid-area: main;
+    height: 100%;
+    background-color: pink;
+    display: inline;
+}
+
+main button{
+    width: 20%;
+    background-color: blue;
     padding: 2%;
-    background-color: red;
+    margin: 1%;
        
 }
 
-.div_vogais3 button img{
-    height: 150px;
-    max-width: 100%;
+main button img{
+    height: 100px;
     background-color: purple;
-    padding: 8%;
+}
+
+main button p {
+    display: none;
+    font-size: 15px;
+    font-weight: bold;
 }
