@@ -1,7 +1,7 @@
 <?php
 /* CONEXÃO BANCO DE DADOS*/
 //SERVIDOR OFICIAL
-$teste = "nao";
+$teste = "sim";
 
 if($teste === "sim"){
 $conect = mysqli_connect("localhost", "root", "842867", "std");

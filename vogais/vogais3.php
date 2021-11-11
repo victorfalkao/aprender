@@ -93,14 +93,14 @@
             </aside>
             
             <main>
-                <button type="button" id="9" name="falso" onclick="corrigirSelecao(this.id,this.name)"><img src="../img/cachorro.jpg" alt="cachorro"/><p id="p9">QUE PENA!  : (</p></button>
-            <button type="button" id="10" name="verdadeiro" onclick="corrigirSelecao(this.id,this.name)"><img src="../img/estrela.jpg" alt="estrela"/><p id="p10">MUITO BEM!  : )</p></button>
-            <button type="button" id="11" name="verdadeiro" onclick="corrigirSelecao(this.id,this.name)"><img src="../img/elefante.png" alt="elefante"/><p id="p11">MUITO BEM!  : )</p></button>
-            <button type="button" id="12" name="verdadeiro" onclick="corrigirSelecao(this.id,this.name)"><img src="../img/escada.jpg" alt="escada"/><p id="p12">MUITO BEM!  : )</p></button>
-            <button type="button" id="13" name="falso" onclick="corrigirSelecao(this.id,this.name)"><img src="../img/sapo.jpg" alt="sapo"/><p id="p13">QUE PENA!  : (</p></button>
-            <button type="button" id="14" name="verdadeiro" onclick="corrigirSelecao(this.id,this.name)"><img src="../img/espada.jpg" alt="espada"/><p id="p14">MUITO BEM!  : )</p></button>
-            <button type="button" id="15" name="falso" onclick="corrigirSelecao(this.id,this.name)"><img src="../img/raquete.jpg" alt="raquete"/><p id="p15">QUE PENA!  : (</p></button>
-            <button type="button" id="16" name="verdadeiro" onclick="corrigirSelecao(this.id,this.name)"><img src="../img/escova.jpg" alt="escova"/><p id="p16">MUITO BEM!  : )</p></button>
+                <button type="button" id="25" name="falso" onclick="corrigirSelecao(this.id,this.name)"><img src="../img/dado.png" alt="dado"/><p id="p25">QUE PENA!  : (</p></button>
+                <button type="button" id="26" name="verdadeiro" onclick="corrigirSelecao(this.id,this.name)"><img src="../img/olho.jpg" alt="olho"/><p id="p26">MUITO BEM!  : )</p></button>
+                <button type="button" id="27" name="verdadeiro" onclick="corrigirSelecao(this.id,this.name)"><img src="../img/ovelha.jpg" alt="ovelha"/><p id="p27">MUITO BEM!  : )</p></button>
+                <button type="button" id="28" name="verdadeiro" onclick="corrigirSelecao(this.id,this.name)"><img src="../img/ovo.jpg" alt="ovo"/><p id="p28">MUITO BEM!  : )</p></button>
+                <button type="button" id="29" name="falso" onclick="corrigirSelecao(this.id,this.name)"><img src="../img/flor.jpg" alt="flor"/><p id="p29">QUE PENA!  : (</p></button>
+                <button type="button" id="30" name="verdadeiro" onclick="corrigirSelecao(this.id,this.name)"><img src="../img/oculos.png" alt="oculos"/><p id="p30">MUITO BEM!  : )</p></button>
+            <button type="button" id="31" name="falso" onclick="corrigirSelecao(this.id,this.name)"><img src="../img/pintinho.jpg" alt="pintinho"/><p id="p31">QUE PENA!  : (</p></button>
+            <button type="button" id="32" name="verdadeiro" onclick="corrigirSelecao(this.id,this.name)"><img src="../img/onibus.jpg" alt="ônibus"/><p id="p32">MUITO BEM!  : )</p></button>
             </main>
             
         </principal>
@@ -114,14 +114,14 @@
             </aside>
             
             <main>
-                <button type="button" id="9" name="falso" onclick="corrigirSelecao(this.id,this.name)"><img src="../img/cachorro.jpg" alt="cachorro"/><p id="p9">QUE PENA!  : (</p></button>
-            <button type="button" id="10" name="verdadeiro" onclick="corrigirSelecao(this.id,this.name)"><img src="../img/estrela.jpg" alt="estrela"/><p id="p10">MUITO BEM!  : )</p></button>
-            <button type="button" id="11" name="verdadeiro" onclick="corrigirSelecao(this.id,this.name)"><img src="../img/elefante.png" alt="elefante"/><p id="p11">MUITO BEM!  : )</p></button>
-            <button type="button" id="12" name="verdadeiro" onclick="corrigirSelecao(this.id,this.name)"><img src="../img/escada.jpg" alt="escada"/><p id="p12">MUITO BEM!  : )</p></button>
-            <button type="button" id="13" name="falso" onclick="corrigirSelecao(this.id,this.name)"><img src="../img/sapo.jpg" alt="sapo"/><p id="p13">QUE PENA!  : (</p></button>
-            <button type="button" id="14" name="verdadeiro" onclick="corrigirSelecao(this.id,this.name)"><img src="../img/espada.jpg" alt="espada"/><p id="p14">MUITO BEM!  : )</p></button>
-            <button type="button" id="15" name="falso" onclick="corrigirSelecao(this.id,this.name)"><img src="../img/raquete.jpg" alt="raquete"/><p id="p15">QUE PENA!  : (</p></button>
-            <button type="button" id="16" name="verdadeiro" onclick="corrigirSelecao(this.id,this.name)"><img src="../img/escova.jpg" alt="escova"/><p id="p16">MUITO BEM!  : )</p></button>
+                <button type="button" id="33" name="falso" onclick="corrigirSelecao(this.id,this.name)"><img src="../img/elefante.png" alt="elefante"/><p id="p33">QUE PENA!  : (</p></button>
+                <button type="button" id="34" name="verdadeiro" onclick="corrigirSelecao(this.id,this.name)"><img src="../img/uva.jpg" alt="uva"/><p id="p34">MUITO BEM!  : )</p></button>
+                <button type="button" id="35" name="verdadeiro" onclick="corrigirSelecao(this.id,this.name)"><img src="../img/urubu.jpg" alt="urubu"/><p id="p35">MUITO BEM!  : )</p></button>
+                <button type="button" id="36" name="verdadeiro" onclick="corrigirSelecao(this.id,this.name)"><img src="../img/urso.jpg" alt="urso"/><p id="p36">MUITO BEM!  : )</p></button>
+            <button type="button" id="37" name="falso" onclick="corrigirSelecao(this.id,this.name)"><img src="../img/dedo.png" alt="dedo"/><p id="p37">QUE PENA!  : (</p></button>
+            <button type="button" id="38" name="verdadeiro" onclick="corrigirSelecao(this.id,this.name)"><img src="../img/unicornio.jpg" alt="unicornio"/><p id="p38">MUITO BEM!  : )</p></button>
+            <button type="button" id="39" name="falso" onclick="corrigirSelecao(this.id,this.name)"><img src="../img/bola.png" alt="bola"/><p id="p39">QUE PENA!  : (</p></button>
+            <button type="button" id="40" name="verdadeiro" onclick="corrigirSelecao(this.id,this.name)"><img src="../img/unha.jpg" alt="unha"/><p id="p40">MUITO BEM!  : )</p></button>
             </main>
             
         </principal>
